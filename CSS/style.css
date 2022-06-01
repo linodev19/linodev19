@@ -1,7 +1,7 @@
 .manavbar{
-    background-color: rgb(4, 15, 65);
+    background-color: rgb(4, 15, 65) !important;
 }
 
  .nav-link {
-    color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255) !important;
 }
